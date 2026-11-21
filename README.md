@@ -55,3 +55,8 @@ node serve.ts   # then open http://localhost:8080
 ```
 
 MIT licensed — see `LICENSE`.
+
+
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/agay12/stealth-repo2/rank.svg?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/agay12/stealth-repo2/reward.svg?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
